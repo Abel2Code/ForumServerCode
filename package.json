@@ -1,0 +1,15 @@
+{
+  "name": "forumexample",
+  "version": "1.0.0",
+  "description": "An implementation of forum using MEAN stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abel2Code",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "mongoose": "^5.0.5"
+  }
+}
